@@ -1,5 +1,5 @@
 ---
-title: "Learn Your Opening — A Chess App Idea"
+title: Learn Your Opening — A Chess App Idea
 date: 2026-04-20
 tags:
   - chess
@@ -10,6 +10,7 @@ categories:
   - ideas
   - chess
 status: raw-idea
+author: Marootinos
 ---
 ## What is is it
 Ever had a problem learning your new favorite opening but you encounter this two problems.
