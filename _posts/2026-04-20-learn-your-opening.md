@@ -10,7 +10,7 @@ categories:
   - ideas
   - chess
 status: raw-idea
-author: Marootinos
+author: marootinos
 ---
 ## What is is it
 Ever had a problem learning your new favorite opening but you encounter this two problems.
