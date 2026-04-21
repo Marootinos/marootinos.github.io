@@ -13,7 +13,7 @@ status: raw-idea
 author: marootinos
 ---
 ## What is is it
-Ever had a problem learning your new favorite opening but you encounter this two problems.
+Ever had a problem learning your new favorite opening but you encounter these two problems.
 1. Your opponent plays the wrong moves
 2. Theory and memorizing is not helping
 
